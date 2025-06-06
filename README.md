@@ -29,7 +29,7 @@ The project was developed with care and affection for Ruby, who lived with us fo
 ## Project page
 
 More details, pictures and background:  
-👉 [barattalo.it – Ruby's Hamster Wheel Project](https://www.barattalo.it/other/la-ruota-del-criceto-ruby-connessa-ad-internet/)
+👉 [barattalo.it – Ruby's Hamster Wheel Project](https://www.barattalo.it/making/la-ruota-del-criceto-ruby-connessa-ad-internet/)
 
 ---
 
